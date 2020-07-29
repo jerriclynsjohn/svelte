@@ -1,0 +1,3 @@
+[submodule "svelte-js-tailwind-rollup"]
+	path = svelte-js-tailwind-rollup
+	url = https://github.com/jerriclynsjohn/svelte-js-tailwind-rollup.git
