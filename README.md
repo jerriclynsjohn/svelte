@@ -1,3 +1,4 @@
 # Svelte Template Quickies
 
-1. [Svelte (JS) + Tailwind + Rollup](https://github.com/jerriclynsjohn/svelte-js-tailwind-rollup.git)
+1. [Svelte (Javascript) + Tailwind + Rollup](https://github.com/useproact/svelte-js-tailwind-rollup)
+2. [Svelte (Typescript) + Tailwind + Rollup](https://github.com/useproact/svelte-ts-tailwind-rollup)
