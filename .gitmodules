@@ -4,3 +4,6 @@
 [submodule "svelte-ts-tailwind-rollup"]
 	path = svelte-ts-tailwind-rollup
 	url = https://github.com/useproact/svelte-ts-tailwind-rollup
+[submodule "sapper-js-tailwind-rollup"]
+	path = sapper-js-tailwind-rollup
+	url = https://github.com/useproact/sapper-js-tailwind-rollup
